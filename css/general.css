@@ -1216,13 +1216,17 @@ p.copyright {
 	}
 
 	ul.intro-social-buttons > li {
-		display: block;
+		/* display: block;
 		margin-bottom: 20px;
-		padding: 0;
+		padding: 0; */
+		padding-bottom: 15%;
+
 	}
 
 	ul.intro-social-buttons > li:last-child {
-		margin-bottom: 0;
+		/* margin-bottom: 0; */
+		padding-bottom: 15%;
+
 	}
 
 	.intro-divider {
