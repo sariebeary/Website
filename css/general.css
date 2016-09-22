@@ -1059,13 +1059,13 @@ color: #ECEBEB;
 
 
 /* All Mobile Sizes (devices and browser) */
-	@media only screen and (max-width: 767px) {
+	@media only screen and (max-width: 665px) {
 		.intro-header {
-			height: 100%;
-			padding-top: 50px;
+			height: 0%;
+			padding-top: 1px;
 			padding-bottom: 50px;
 			color: #f8f8f8;
-		    background-image: url(../img/intro/stars.gif) no-repeat center center; 
+		    background-image: none; 
 			background-size: cover;
 			text-align: center;
 			background-color: #34495e;
