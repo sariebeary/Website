@@ -1059,10 +1059,10 @@ color: #ECEBEB;
 
 
 /* All Mobile Sizes (devices and browser) */
-	@media only screen and (max-width: 665px) {
+	@media only screen and (max-width: 767px) {
 		.intro-header {
-			height: 0%;
-			padding-top: 1px;
+			height: 100%;
+			padding-top: 50px;
 			padding-bottom: 50px;
 			color: #f8f8f8;
 		    background-image: none; 
