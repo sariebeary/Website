@@ -130,7 +130,7 @@ filter: alpha(opacity=95) !important;
 	background-image:url(../img/status.gif); /* path to your loading animation */
 	background-repeat:no-repeat;
 	background-position:center;
-	margin:-200px 0 0 -100px; /* is width and height divided by two */
+	margin:-100px 0 0 -100px; /* is width and height divided by two */
 }
 
 
