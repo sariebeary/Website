@@ -123,7 +123,7 @@ filter: alpha(opacity=95) !important;
 
 #status {
 	width:200px;
-	height:400px;
+	height:600px;
 	position:absolute;
 	left:50%; /* centers the loading animation horizontally one the screen */
 	top:50%; /* centers the loading animation vertically one the screen */
