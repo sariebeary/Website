@@ -1,7 +1,4 @@
-#Flatfy - Theme | New Version!
+#Sarah's Website
 
-##Responsive Mobile & Flat Design 
-Own Carousel & Bootstrap Framework CSS 
-Font Icon Svg & Animate
-
-Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
+##mygithubpage
+Where Sarah tests stuff out :D
