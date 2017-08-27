@@ -1,4 +1,4 @@
-#Sarah's Website
+# Sarah's Website
 
-##mygithubpage
+## mygithubpage
 Where Sarah tests stuff out :D
